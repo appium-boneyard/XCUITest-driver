@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.38.1 clang-700.0.53)"
+options: "d502e2c14014c39066f70c768d2c437c"
+inputs: 
+- "/Users/jdeff/Dev/Sidecar/TalkWithHost/TalkWithHost/ViewController.swift"
+- "/Users/jdeff/Dev/Sidecar/TalkWithHost/TalkWithHost/AppDelegate.swift"

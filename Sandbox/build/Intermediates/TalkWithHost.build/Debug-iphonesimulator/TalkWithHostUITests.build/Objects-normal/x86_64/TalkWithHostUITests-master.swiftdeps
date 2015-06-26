@@ -1,0 +1,4 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.38.1 clang-700.0.53)"
+options: "c15dd1cf07d720d8a8add0d4d63169ab"
+inputs: 
+- "/Users/jdeff/Dev/Sidecar/TalkWithHost/TalkWithHostUITests/TalkWithHostUITests.swift"
